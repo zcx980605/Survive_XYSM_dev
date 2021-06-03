@@ -50,7 +50,9 @@ markdown_extensions:
   - pymdownx.tilde
 
 plugins:
-  - search
+  - search:
+      lang: ja
+      # prebuild_index: true
   - git-revision-date-localized:
       type: datetime
 
