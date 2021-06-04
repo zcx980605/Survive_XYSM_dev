@@ -20,6 +20,9 @@
 
     在最终发布前，这些信息可能会随时变化。
 
+??? QUESTION "希望浏览早期的Gitbook版本？"
+    当前版本存在已知的Bug（源自lunr.js不支持中文）——“搜索结果不全”，目前，我们依然提供了Gitbook版本的网页，如果你希望访问，请[单击此链接](gitbook)
+
 ## 内容编写进度
 
 |章节|所含内容及编写状态|标记|
@@ -34,7 +37,7 @@
 |[第七章：基地医院实习体会](Ch7_ji-di-yi-yuan-shi-xi-ti-hui/readme.md)|共计11篇，已全部提交，1篇被标记为待完善|⭕|
 |[第八章：国际交流项目](Ch8_guo-ji-jiao-liu-xiang-mu/readme.md)|共计9篇（其中5篇拆分自原稿1篇），已全部提交|✅|
 |[第九章：考研/保研经验与体会](Ch9_kao-yan-bao-yan-jing-yan-ti-hui/readme.md)|共计11篇，已全部提交|✅|
-|[第十章：世界观，价值观与感悟](ChA_shi-jie-guan-jia-zhi-guan-yu-gan-wo/readme.md)|共计6篇，已全部提交|✅|
+|[第十章：世界观，价值观与感悟](ChA_shi-jie-guan-jia-zhi-guan-yu-gan-wo/readme.md)|共计7篇，已全部提交|✅|
 
 ## 网页版排版进度
 
